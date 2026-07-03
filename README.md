@@ -9,8 +9,10 @@ Welcome to the central repository for Vexis AI. We are a research-driven collect
 | Identity | Role | Mission Focus |
 | :--- | :--- | :--- |
 | **Dighvijay** | **Chief Executive Officer** | Drives strategic operations, client relations, and front-facing brand expansion. |
-| **Mayank Sharma** | **Chief Technology Officer** | Leads technical architecture, system logic, and AI research (BitKAN/Ternary logic). |
+| **Akshat Punia** | **Chief Software & Hardware Officer** | The driving force behind VEXISX's secure ecosystem, perfectly balancing aggressive innovation with uncompromising security. 
+| **Kritagya Hooda** | **Head of Department Marketing** | Bridging the gap between stunning design and seamless functionality, turning complex data into perfect user journeys — keeping VEXISX's digital ecosystem bug-free, intuitive, and ahead of the curve. |
 | **Mayank Sangwan** | **Core Partner** | Oversees organizational structure and strategic research alignment. |
+
 
 ---
 
